@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/galvatron/Desktop/cSystemsAssignments/004/assignment004Systems",
+            "binaryPath": "/home/galvatron/Desktop/cSystemsAssignments/004/assignment004Systems/digitcompress",
+            "binaryArgs": []
+        }
+    ]
+}
